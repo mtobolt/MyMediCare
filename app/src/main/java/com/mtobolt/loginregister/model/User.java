@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.model;
+package com.mtobolt.loginregister.model;
 
 /**
  * Created by lalit on 9/12/2016.

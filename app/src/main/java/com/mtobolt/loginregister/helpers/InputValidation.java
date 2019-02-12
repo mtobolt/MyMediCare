@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.helpers;
+package com.mtobolt.loginregister.helpers;
 
 import android.app.Activity;
 import android.content.Context;

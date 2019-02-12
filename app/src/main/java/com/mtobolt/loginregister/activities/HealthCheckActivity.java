@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.activities;
+package com.mtobolt.loginregister.activities;
 
 import android.content.Intent;
 import android.os.Message;
@@ -10,8 +10,8 @@ import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.TextView;
 
-import com.androidtutorialshub.loginregister.R;
-import com.androidtutorialshub.loginregister.helpers.Conversions;
+import com.mtobolt.loginregister.R;
+import com.mtobolt.loginregister.helpers.Conversions;
 
 public class HealthCheckActivity extends AppCompatActivity {
 

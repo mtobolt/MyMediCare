@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.activities;
+package com.mtobolt.loginregister.activities;
 
 import android.Manifest;
 import android.support.v4.app.ActivityCompat;
@@ -10,7 +10,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.androidtutorialshub.loginregister.R;
+import com.mtobolt.loginregister.R;
 
 
 public class MessageNurse extends AppCompatActivity {

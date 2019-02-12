@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister;
+package com.mtobolt.loginregister;
 
 import org.junit.Test;
 
